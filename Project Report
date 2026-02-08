@@ -1,0 +1,149 @@
+No worries 👍 I’ll rewrite it clearly and make **all main points and headings bold** so it looks perfect for submission.
+
+---
+
+# **DIGITAL IMAGE PROCESSING PROJECT REPORT**
+
+## **PROJECT TITLE**
+
+**IMAGE ROTATION AND RESIZE**
+
+---
+
+## **STUDENT INFORMATION**
+
+* **Name:** Umara iqbal
+* **Roll Number:** 100074
+* **Institute Name:** Government Graduate College Burewaka
+* **Instructor Name:** Mam Rimsha Kiran
+* **Subject:** **Digital Image Processing**
+
+---
+
+## **. INTRODUCTION**
+
+**Digital Image Processing (DIP)** deals with the manipulation and analysis of digital images using algorithms.
+**Image Rotation and Resize** are basic but important image transformation techniques used in image editing, computer vision, medical imaging, and multimedia applications.
+This project focuses on rotating images by a given angle and resizing them to desired dimensions while maintaining image quality.
+
+---
+
+## **. PROBLEM STATEMENT**
+
+Images often require **orientation correction** and **size adjustment**. Performing these tasks manually is inefficient.
+The objective is to **design and implement an automated system** that performs **image rotation and resizing** effectively.
+
+---
+
+## **. OBJECTIVES**
+
+* **To understand digital image transformation techniques**
+* **To implement image rotation**
+* **To perform image resizing**
+* **To study interpolation methods**
+* **To analyze output image quality**
+
+---
+
+## **. SCOPE OF THE PROJECT**
+
+* **Focuses on geometric image transformations**
+* **Provides a foundation for advanced image processing tasks**
+* **Useful for academic and practical applications**
+
+---
+
+## **. METHODOLOGY**
+
+The project follows these steps:
+
+1. **Input Image Acquisition**
+2. **Apply Image Rotation using rotation matrix**
+3. **Resize Image using scaling techniques**
+4. **Apply interpolation to preserve quality**
+5. **Display and save the output image**
+
+---
+
+## **. IMAGE ROTATION**
+
+**Image Rotation** is the process of rotating an image by a specific angle around its center.
+
+
+## **. IMAGE RESIZING**
+
+**Image Resizing** changes the dimensions of an image by scaling.
+
+### **Types of Resizing**
+
+* **Upscaling:** Increasing image size
+* **Downscaling:** Decreasing image size
+
+**Interpolation techniques** such as **Nearest Neighbor** and **Bilinear Interpolation** are used to compute new pixel values.
+
+---
+
+## **. TOOLS AND TECHNOLOGIES USED**
+
+* **Programming Language:** *Python / MATLAB / C++*
+* **Libraries:** *OpenCV, NumPy, PIL*
+* **Operating System:** *Windows / Linux*
+
+---
+
+## **. RESULTS AND DISCUSSION**
+
+* **Images were successfully rotated and resized**
+* **Output images maintained good visual quality**
+* **Minor distortion observed at extreme angles or scaling**
+
+---
+
+## **. APPLICATIONS**
+
+* **Image editing software**
+* **Medical imaging systems**
+* **Computer vision applications**
+* **Surveillance systems**
+* **Digital media processing**
+
+---
+
+## **. ADVANTAGES**
+
+* **Simple and efficient implementation**
+* **Saves time and effort**
+* **Fast image processing**
+* **Improves image usability**
+
+---
+
+## **. LIMITATIONS**
+
+* **Quality loss during excessive resizing**
+* **High computation for large images**
+* **Limited to basic transformations**
+
+---
+
+## **. CONCLUSION**
+
+The **Image Rotation and Resize** project successfully demonstrates essential **digital image processing techniques**.
+It enhances understanding of **geometric transformations** and serves as a strong base for advanced image processing and computer vision projects.
+
+---
+
+## **. FUTURE ENHANCEMENTS**
+
+* **Add image enhancement features**
+* **Enable batch image processing**
+* **Use advanced interpolation techniques**
+* **Develop a Graphical User Interface (GUI)**
+
+---
+
+## **. REFERENCES**
+
+* **Gonzalez & Woods – Digital Image Processing**
+* **OpenCV Official Documentation**
+* **Research papers on image transformation**
